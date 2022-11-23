@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudando desenvolvimento fullstack,<br>subindo os principais projetos por aqui,<br>procurando uma oportunidade para desenvolver projetos<br>e demostrar o que aprendi e estou aprendendo<br>nos estudos. 
+Estudando desenvolvimento fullstack, subindo os principais projetos por aqui,<br>procurando uma oportunidade para desenvolver projetos e demostrar o que aprendi e estou aprendendo nos estudos. 
 
 
 ## 🌐 Socials:
@@ -14,8 +14,5 @@ Estudando desenvolvimento fullstack,<br>subindo os principais projetos por aqui,
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rodrigo-m-brazao&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=rodrigo-m-brazao&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
