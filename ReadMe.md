@@ -1,9 +1,10 @@
 # 💫 About Me:
-Studying fullstack development, uploading the main projects around here,
-looking for an opportunity to develop projects and demonstrate what I learned and I'm learning in my studies.
+Working at fullstack development, uploading the personal projects around here,
+I'm sharing my personal projects and demonstrate what I learned and think is interesting to share.
 
 # 💫 Sobre Mim:
-Estudando desenvolvimento fullstack, subindo os principais projetos por aqui,<br>procurando uma oportunidade para desenvolver projetos e demostrar o que aprendi e estou aprendendo nos estudos. 
+Trabalho com desenvolvimento fullstack, subindo os projetos pessoais por aqui,<br> compartilho meus projetos pessoais e demonstro o que aprendi e acho
+interessante de compartilhar 
 
 
 ## 🌐 Socials:
